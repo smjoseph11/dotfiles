@@ -1,0 +1,27 @@
+[submodule "plugins/start/nerdtree"]
+	path = plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "plugins/start/nerdtree-git-plugin"]
+	path = plugins/start/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin
+[submodule "colors/start/one"]
+	path = colors/start/one
+	url = https://github.com/rakr/vim-one.git
+[submodule "syntax/start/simpylfold"]
+	path = syntax/start/simpylfold
+	url = https://github.com/tmhedberg/SimpylFold.git
+[submodule "syntax/start/fastfold"]
+	path = syntax/start/fastfold
+	url = https://github.com/Konfekt/FastFold.git
+[submodule "syntax/opt/indentpython"]
+	path = syntax/start/indentpython
+	url = https://github.com/vim-scripts/indentpython.vim.git
+[submodule "plugins/start/youcompleteme"]
+	path = plugins/start/youcompleteme
+	url = https://github.com/ycm-core/YouCompleteMe.git
+[submodule "syntax/start/syntastic"]
+	path = syntax/start/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "syntax/start/vim-flake8"]
+	path = syntax/start/vim-flake8
+	url = https://github.com/nvie/vim-flake8.git
